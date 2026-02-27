@@ -1,0 +1,13 @@
+Нельзя воравть личные даные :
+почту
+пароли
+даные
+название
+Всё понятно?
+
+You can't steal personal information:
+email
+passwords
+data
+name
+Is everything clear?
